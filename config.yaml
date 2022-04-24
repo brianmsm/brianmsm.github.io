@@ -426,7 +426,7 @@ params:
       data_domains: ''
       data_website_id: ''
       src: ''
-  bundle: yes
+  bundle: no
   cdn:
     data: ''
   compatibility:
