@@ -1,4 +1,5 @@
-baseURL: https://hugodoit.pages.dev
+baseURL: https://brianmsm.github.io
+publishDir: docs
 defaultContentLanguage: en
 theme: DoIt
 title: DoIt
