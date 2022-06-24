@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://brianmsm.github.io/theme-documentation-content/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/theme-documentation-content/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/theme-documentation-content/"
@@ -11,7 +11,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/theme-documentation-content/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/showcase/</loc><lastmod>2021-11-01T20:08:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/showcase/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/showcase/"
@@ -20,16 +20,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/showcase/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/authors/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://brianmsm.github.io/en/authors/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="es"
-                    href="https://brianmsm.github.io/authors/"
-                    /></url><url>
-            <loc>https://brianmsm.github.io/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/"
@@ -38,7 +29,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/categories/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/categories/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/categories/"
@@ -47,7 +38,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/categories/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/tags/content/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/tags/content/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/tags/content/"
@@ -56,7 +47,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/tags/content/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/authors/dillon/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/authors/dillon/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/authors/dillon/"
@@ -65,16 +56,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/authors/dillon/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/categories/documentation/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://brianmsm.github.io/en/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="es"
-                    href="https://brianmsm.github.io/categories/documentation/"
-                    /></url><url>
-            <loc>https://brianmsm.github.io/series/getting-start/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/series/getting-start/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/series/getting-start/"
@@ -83,7 +65,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/series/getting-start/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/tags/markdown/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/tags/markdown/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/tags/markdown/"
@@ -92,7 +74,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/tags/markdown/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/authors/pcloud/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/authors/pcloud/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/authors/pcloud/"
@@ -101,7 +83,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/authors/pcloud/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/posts/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/posts/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/posts/"
@@ -110,16 +92,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/posts/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/series/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://brianmsm.github.io/en/series/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="es"
-                    href="https://brianmsm.github.io/series/"
-                    /></url><url>
-            <loc>https://brianmsm.github.io/tags/</loc><lastmod>2020-03-04T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/tags/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/tags/"
@@ -128,7 +101,7 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/tags/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/about/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/about/"
@@ -137,7 +110,25 @@
                     hreflang="es"
                     href="https://brianmsm.github.io/about/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/offline/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/authors/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://brianmsm.github.io/en/authors/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="es"
+                    href="https://brianmsm.github.io/authors/"
+                    /></url><url>
+            <loc>https://brianmsm.github.io/categories/documentation/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://brianmsm.github.io/en/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="es"
+                    href="https://brianmsm.github.io/categories/documentation/"
+                    /></url><url>
+            <loc>https://brianmsm.github.io/offline/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://brianmsm.github.io/en/offline/"
@@ -145,4 +136,13 @@
                     rel="alternate"
                     hreflang="es"
                     href="https://brianmsm.github.io/offline/"
+                    /></url><url>
+            <loc>https://brianmsm.github.io/series/</loc><lastmod>2022-06-24T01:24:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://brianmsm.github.io/en/series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="es"
+                    href="https://brianmsm.github.io/series/"
                     /></url></urlset>
