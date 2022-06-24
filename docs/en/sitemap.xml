@@ -2,175 +2,147 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://brianmsm.github.io/theme-documentation-content/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/theme-documentation-content/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/theme-documentation-content/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/theme-documentation-content/"
+                    href="https://brianmsm.github.io/en/theme-documentation-content/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/showcase/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/showcase/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/showcase/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/showcase/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/showcase/"
+                    href="https://brianmsm.github.io/en/showcase/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/categories/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/categories/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/categories/"
+                    href="https://brianmsm.github.io/en/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/authors/dillon/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/categories/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/authors/dillon/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/authors/dillon/"
+                    href="https://brianmsm.github.io/en/categories/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/tags/content/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/"
+                    href="https://brianmsm.github.io/en/tags/content/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/tags/markdown/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/authors/dillon/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/tags/markdown/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/authors/dillon/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/tags/markdown/"
+                    href="https://brianmsm.github.io/en/authors/dillon/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/authors/pcloud/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/series/getting-start/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/authors/pcloud/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/series/getting-start/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/authors/pcloud/"
+                    href="https://brianmsm.github.io/en/series/getting-start/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/posts/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/tags/markdown/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/posts/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/posts/"
+                    href="https://brianmsm.github.io/en/tags/markdown/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/tags/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/authors/pcloud/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/tags/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/authors/pcloud/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/tags/"
+                    href="https://brianmsm.github.io/en/authors/pcloud/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/about/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/posts/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/about/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/about/"
+                    href="https://brianmsm.github.io/en/posts/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/authors/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/tags/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/authors/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/authors/"
+                    href="https://brianmsm.github.io/en/tags/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/tags/configuration/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/about/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/tags/configuration/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/tags/configuration/"
+                    href="https://brianmsm.github.io/en/about/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/tags/content/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/authors/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/tags/content/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/tags/content/"
+                    href="https://brianmsm.github.io/en/authors/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/categories/documentation/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/categories/documentation/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/categories/documentation/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/categories/documentation/"
+                    href="https://brianmsm.github.io/en/categories/documentation/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/series/getting-start/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/offline/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/series/getting-start/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/offline/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/series/getting-start/"
+                    href="https://brianmsm.github.io/en/offline/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/series/how-to-doit/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/series/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/series/how-to-doit/"
+                        hreflang="es"
+                        href="https://brianmsm.github.io/series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://brianmsm.github.io/series/how-to-doit/"
-                    /></url><url>
-            <loc>https://brianmsm.github.io/tags/installation/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://brianmsm.github.io/tags/installation/"
-                    /></url><url>
-            <loc>https://brianmsm.github.io/offline/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://brianmsm.github.io/series/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/series/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://brianmsm.github.io/series/"
-                    /></url><url>
-            <loc>https://brianmsm.github.io/series/test-series/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://brianmsm.github.io/zh-cn/series/test-series/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://brianmsm.github.io/series/test-series/"
+                    href="https://brianmsm.github.io/en/series/"
                     /></url></urlset>

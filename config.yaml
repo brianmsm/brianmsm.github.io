@@ -1,15 +1,227 @@
-baseURL: https://brianmsm.github.io
+baseURL: https://brianmsm.github.io/
 publishDir: docs
-defaultContentLanguage: en
+defaultContentLanguage: es
 theme: DoIt
-title: DoIt
+title: Brian
 enableRobotsTXT: yes
 enableGitInfo: yes
 enableEmoji: yes
 languages:
+  es:
+    copyright: >
+      El contenido de esta página web está bajo una 
+      [Licencia de Creative Commons Reconocimiento-CompartirIgual 
+      4.0 Internacional(CC BY-SA 4.0)]
+      (https://creativecommons.org/licenses/by-sa/4.0/es).
+    googleAnalytics: ''
+    hasCJKLanguage: no
+    languageCode: es
+    languageName: Español
+    menu:
+      main:
+        - identifier: posts
+          name: Publicaciones
+          post: ''
+          pre: ''
+          title: ''
+          url: /posts/
+          weight: 1
+        - identifier: tags
+          name: Etiquetas
+          post: ''
+          pre: ''
+          title: ''
+          url: /tags/
+          weight: 2
+        - identifier: categories
+          name: Categorías
+          post: ''
+          pre: ''
+          title: ''
+          url: /categories/
+          weight: 3
+        - identifier: series
+          name: Series
+          post: ''
+          pre: ''
+          title: ''
+          url: /series/
+          weight: 4
+        - identifier: authors
+          name: Autores
+          post: ''
+          pre: ''
+          title: ''
+          url: /authors/
+          weight: 5
+        - identifier: showcase
+          name: Showcase
+          post: ''
+          pre: ''
+          title: ''
+          url: /showcase/
+          weight: 6
+        - identifier: documentation
+          name: Documentación
+          pre: ''
+          title: ''
+          url: /categories/documentation/
+          weight: 7
+        - identifier: about
+          name: Sobre mí
+          post: ''
+          pre: ''
+          title: ''
+          url: /about/
+          weight: 8
+        - identifier: github
+          name: ''
+          post: ''
+          pre: <i class='fab fa-github fa-fw'></i>
+          title: GitHub
+          url: https://github.com/brianmsm
+          weight: 9
+    paginate: 12
+    params:
+      app:
+        iconColor: '#5bbad5'
+        noFavicon: no
+        svgFavicon: ''
+        tileColor: '#da532c'
+        title: Web Personal de Brian Peña Calero
+      description: >
+        Encontrará posts sobre limpieza de datos, estrategias de análisis, psicometría,
+        universo tidyverse, trucos y recetas con R, tutoriales, benchmarking y más 
+        cosas interesantes que tuve que aprender leyendo a pedacitos de diversas partes. 
+      home:
+        posts:
+          enable: yes
+          paginate: 7
+        profile:
+          avatarURL: /images/avatar.webp
+          disclaimer: ''
+          enable: yes
+          gravatarEmail: ''
+          social: yes
+          subtitle: > 
+            Aquí encontrarás información sobre investigación y
+            análisis de datos
+          title: 'Brian Norman Peña-Calero'
+          typeit: yes
+        rss: 10
+      keywords:
+        - Investigación
+        - Análisis de datos
+        - Psicometría
+        - R
+        - Tidyverse
+        - ggplot2
+        - Metodología
+      search:
+        absoluteURL: no
+        algolia:
+          appID: 5YGRNRQK1G
+          index: es_index
+          searchKey: 0ff6874805de24b84aa1d5ebccad56cd
+        contentLength: 4000
+        enable: yes
+        fuse:
+          distance: 100
+          findAllMatches: no
+          ignoreFieldNorm: no
+          ignoreLocation: yes
+          isCaseSensitive: no
+          location: 0
+          minMatchCharLength: 2
+          threshold: 0.1
+          useExtendedSearch: no
+        highlightTag: em
+        maxResultLength: 10
+        placeholder: ''
+        snippetLength: 50
+        type: algolia
+      social:
+        Angellist: ''
+        Bandcamp: ''
+        Behance: ''
+        Bilibili: ''
+        Bitbucket: ''
+        BuyMeACoffee: ''
+        Codepen: ''
+        Deviantart: ''
+        Devto: ''
+        Douban: ''
+        Dribbble: ''
+        Email: 'brianmsm@gmail.com'
+        Facebook: ''
+        Fivehundredpx: ''
+        Flickr: ''
+        Foursquare: ''
+        FreeCodeCamp: ''
+        GitHub: 'brianmsm'
+        Gitea: ''
+        Gitlab: ''
+        Goodreads: ''
+        Googlescholar: 'user=qJ37YioAAAAJ&hl=es'
+        Hackernews: ''
+        Instagram: ''
+        Jsfiddle: ''
+        Keybase: ''
+        Kickstarter: ''
+        Ko-Fi: ''
+        Lastfm: ''
+        Liberapay: ''
+        Linkedin: ''
+        Linktree: ''
+        Mastodon: ''
+        Matrix: ''
+        Medium: ''
+        Mix: ''
+        ORCID: '0000-0002-1073-9306'
+        Odnoklassniki: ''
+        Patreon: ''
+        Paypal: 'brianmsm'
+        Pinterest: ''
+        QQ: ''
+        QQGroup: ''
+        Quora: ''
+        RSS: yes
+        Reddit: ''
+        Researchgate: 'Brian-Pena-Calero'
+        Skype: ''
+        Slidershare: ''
+        Snapchat: ''
+        Soundcloud: ''
+        Spotify: ''
+        Stackoverflow: ''
+        Steam: ''
+        Strava: ''
+        Telegram: 'brianpe'
+        Thingiverse: ''
+        Tumblr: ''
+        Twitch: ''
+        Twitter: 'brianmsm'
+        VK: ''
+        Vine: ''
+        Weibo: ''
+        Whatsapp: ''
+        Wordpress: ''
+        XMPP: ''
+        Xing: ''
+        Youtubechannel: 'UC-LGBkFYfXnRWqGfSgu94RA'
+        Youtubecustom: ''
+        Youtubelegacy: ''
+        Zhihu: ''
+      sponsor:
+        bio: Si quieres contribuir y apoyarme, puedes regalarme un café 😊.
+        enable: no
+        link: https://github.com/sponsors/HEIGE-PCloud
+    weight: 1
   en:
-    copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
-      4.0 International License.
+    copyright: >
+      The content of this website is licensed under a [Creative Commons
+      Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)]
+      (https://creativecommons.org/licenses/by-sa/4.0/)
     googleAnalytics: ''
     hasCJKLanguage: no
     languageCode: en
@@ -77,7 +289,7 @@ languages:
           post: ''
           pre: <i class='fab fa-github fa-fw'></i>
           title: GitHub
-          url: https://github.com/HEIGE-PCloud/DoIt
+          url: https://github.com/brianmsm/
           weight: 9
     paginate: 12
     params:
@@ -86,8 +298,12 @@ languages:
         noFavicon: no
         svgFavicon: ''
         tileColor: '#da532c'
-        title: DoIt
-      description: The official documentation for the Hugo DoIt theme
+        title: Brian Peña Calero's Personal Web
+      description: >
+        You will find posts about data cleaning, analysis strategies, psychometrics,
+        tidyverse universe, tricks and recipes with R, tutorials, benchmarking and
+        more interesting interesting stuff that I had to learn by reading bits and
+        pieces from different parts. 
       home:
         posts:
           enable: yes
@@ -98,13 +314,18 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: A Clean, Elegant but Advanced Hugo Theme
-          title: ''
+          subtitle: Here you will find information on research and data analysis
+          title: 'Brian Norman Peña-Calero'
           typeit: yes
         rss: 10
       keywords:
-        - Theme
-        - Hugo
+        - Research
+        - Data analysis
+        - Psychometrics
+        - R
+        - Tidyverse
+        - ggplot2
+        - Methodology
       search:
         absoluteURL: no
         algolia:
@@ -138,221 +359,20 @@ languages:
         Codepen: ''
         Deviantart: ''
         Devto: ''
-        Diaspora:
-          id: '@xxxx'
-          prefix: https://yyyy/
+        Diaspora: ''
         Douban: ''
         Dribbble: ''
-        Email: xxxx@xxxx.com
-        Facebook: xxxx
-        Fivehundredpx: ''
-        Flickr: ''
-        Foursquare: ''
-        FreeCodeCamp: ''
-        GitHub: xxxx
-        Gitea: ''
-        Gitlab: ''
-        Goodreads: ''
-        Googlescholar: ''
-        Hackernews: ''
-        Instagram: ''
-        Jsfiddle: ''
-        Keybase: ''
-        Kickstarter: ''
-        Ko-Fi: xxx
-        Lastfm: ''
-        Liberapay: xxx
-        Linkedin: ''
-        Linktree: ''
-        Mastodon:
-          id: '@xxxx'
-          prefix: https://mastodon.technology/
-        Matrix: ''
-        Medium: ''
-        Mix: ''
-        ORCID: ''
-        Odnoklassniki: ''
-        Patreon: ''
-        Paypal: ''
-        Pinterest: ''
-        QQ: ''
-        QQGroup: ''
-        Quora: ''
-        RSS: yes
-        Reddit: ''
-        Researchgate: ''
-        Skype: ''
-        Slidershare: ''
-        Snapchat: ''
-        Soundcloud: ''
-        Spotify: ''
-        Stackoverflow: ''
-        Steam: ''
-        Strava: ''
-        Telegram: xxxx
-        Thingiverse: ''
-        Tumblr: ''
-        Twitch: ''
-        Twitter: xxxx
-        VK: ''
-        Vine: ''
-        Weibo: ''
-        Whatsapp: ''
-        Wordpress: ''
-        XMPP: ''
-        Xing: ''
-        Youtubechannel: ''
-        Youtubecustom: ''
-        Youtubelegacy: xxxx
-        Zhihu: ''
-      sponsor:
-        bio: If you find this post helpful, please consider sponsoring.
-        enable: no
-        link: https://github.com/sponsors/HEIGE-PCloud
-    weight: 1
-  zh-cn:
-    copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
-      4.0 International License.
-    googleAnalytics: ''
-    hasCJKLanguage: yes
-    languageCode: zh-CN
-    languageName: 简体中文
-    menu:
-      main:
-        - identifier: posts
-          name: 所有文章
-          post: ''
-          pre: ''
-          title: ''
-          url: /posts/
-          weight: 1
-        - identifier: tags
-          name: 标签
-          post: ''
-          pre: ''
-          title: ''
-          url: /tags/
-          weight: 2
-        - identifier: categories
-          name: 分类
-          post: ''
-          pre: ''
-          title: ''
-          url: /categories/
-          weight: 3
-        - identifier: series
-          name: 系列
-          post: ''
-          pre: ''
-          title: ''
-          url: /series/
-          weight: 4
-        - identifier: authors
-          name: 作者
-          post: ''
-          pre: ''
-          title: ''
-          url: /authors/
-          weight: 5
-        - identifier: showcase
-          name: 作品
-          post: ''
-          pre: ''
-          title: ''
-          url: /showcase/
-          weight: 6
-        - identifier: documentation
-          name: 文档
-          pre: ''
-          title: ''
-          url: /categories/documentation/
-          weight: 7
-        - identifier: about
-          name: 关于
-          post: ''
-          pre: ''
-          title: ''
-          url: /about/
-          weight: 8
-        - identifier: github
-          name: ''
-          post: ''
-          pre: <i class='fab fa-github fa-fw'></i>
-          title: GitHub
-          url: https://github.com/HEIGE-PCloud/DoIt
-          weight: 9
-    paginate: 12
-    params:
-      app:
-        iconColor: '#5bbad5'
-        noFavicon: no
-        svgFavicon: ''
-        tileColor: '#da532c'
-        title: DoIt
-      description: Hugo DoIt 主题官方文档
-      home:
-        posts:
-          enable: yes
-          paginate: 7
-        profile:
-          avatarURL: /images/avatar.webp
-          disclaimer: ''
-          enable: yes
-          gravatarEmail: ''
-          social: yes
-          subtitle: 一个简洁、优雅且高效的 Hugo 主题
-          title: ''
-          typeit: yes
-        rss: 10
-      keywords:
-        - Theme
-        - Hugo
-      search:
-        absoluteURL: no
-        algolia:
-          appID: 5YGRNRQK1G
-          index: zh_cn_index
-          searchKey: 0ff6874805de24b84aa1d5ebccad56cd
-        contentLength: 4000
-        enable: yes
-        fuse:
-          distance: 100
-          findAllMatches: no
-          ignoreFieldNorm: no
-          ignoreLocation: yes
-          isCaseSensitive: no
-          location: 0
-          minMatchCharLength: 2
-          threshold: 0.1
-          useExtendedSearch: no
-        highlightTag: em
-        maxResultLength: 10
-        placeholder: ''
-        snippetLength: 50
-        type: algolia
-      social:
-        Angellist: ''
-        Bandcamp: ''
-        Behance: ''
-        Bilibili: xxxx
-        Bitbucket: ''
-        BuyMeACoffee: ''
-        Codepen: ''
-        Deviantart: ''
-        Devto: xxxx
-        Douban: xxxx
-        Dribbble: ''
-        Email: xxxx@xxxx.com
+        Email: 'brianmsm@gmail.com'
         Facebook: ''
         Fivehundredpx: ''
         Flickr: ''
         Foursquare: ''
         FreeCodeCamp: ''
-        GitHub: xxxx
+        GitHub: 'brianmsm'
         Gitea: ''
         Gitlab: ''
         Goodreads: ''
-        Googlescholar: ''
+        Googlescholar: 'user=qJ37YioAAAAJ&hl=es'
         Hackernews: ''
         Instagram: ''
         Jsfiddle: ''
@@ -367,43 +387,45 @@ languages:
         Matrix: ''
         Medium: ''
         Mix: ''
-        ORCID: ''
+        ORCID: '0000-0002-1073-9306'
         Odnoklassniki: ''
         Patreon: ''
-        Paypal: ''
+        Paypal: 'brianmsm'
         Pinterest: ''
         QQ: ''
         QQGroup: ''
         Quora: ''
         RSS: yes
         Reddit: ''
-        Researchgate: ''
+        Researchgate: 'Brian-Pena-Calero'
         Skype: ''
         Slidershare: ''
         Snapchat: ''
         Soundcloud: ''
         Spotify: ''
         Stackoverflow: ''
-        Steam: xxxx
+        Steam: ''
         Strava: ''
-        Telegram: ''
+        Telegram: 'brianpe'
         Thingiverse: ''
         Tumblr: ''
         Twitch: ''
-        Twitter: ''
+        Twitter: 'brianmsm'
         VK: ''
         Vine: ''
-        Weibo: xxxx
+        Weibo: ''
         Whatsapp: ''
         Wordpress: ''
         XMPP: ''
         Xing: ''
-        Youtubechannel: ''
+        Youtubechannel: 'UC-LGBkFYfXnRWqGfSgu94RA'
         Youtubecustom: ''
         Youtubelegacy: ''
-        Zhihu: xxxx
+        Zhihu: ''
       sponsor:
-        bio: 如果你觉得这篇文章对你有所帮助，欢迎赞赏~
+        bio: > 
+          If you want to contribute and support me, you can give me a
+          coffee as a gift 😊.
         enable: no
         link: https://github.com/sponsors/HEIGE-PCloud
     weight: 2
@@ -451,23 +473,23 @@ params:
     hostedOn: ''
     hugo: yes
     icp: ''
-    license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
-      target="_blank">CC BY-NC 4.0</a>
-    since: 2019
-  gitRepo: https://github.com/HEIGE-PCloud/DoIt
+    license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-sa/4.0/"
+      target="_blank">CC BY-SA 4.0</a>
+    since: 2022
+  gitRepo: https://github.com/brianmsm
   header:
     desktopMode: fixed
     mobileMode: auto
     themeChangeMode: select
     title:
       logo: ''
-      name: DoIt
+      name: Brian
       post: ''
       pre: <i class='far fa-edit fa-fw'></i>
       typeit: yes
   images: /images/avatar.webp
-  license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
-    target="_blank">CC BY-NC 4.0</a>
+  license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-sa/4.0/"
+      target="_blank">CC BY-SA 4.0</a>
   list:
     dateFormat: 01-02
     paginate: 20
@@ -527,8 +549,8 @@ params:
         siteID: ''
       twikoo:
         commentCount: yes
-        enable: yes
-        envId: https://doit-docs-comment-twikoo.vercel.app/
+        enable: no
+        envId: ''
         path: ''
         region: ''
         visitor: yes
@@ -595,10 +617,10 @@ params:
       css: {}
       js: {}
     lightgallery: no
-    linkToEdit: https://github.com/HEIGE-PCloud/DoIt/edit/main/exampleSite/content/{path}
+    linkToEdit: https://github.com/brianmsm/brianmsm.github.io/edit/main/content/{path}
     linkToMarkdown: yes
-    linkToReport: https://github.com/HEIGE-PCloud/DoIt/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/content/{path}|
-    linkToSource: https://github.com/HEIGE-PCloud/DoIt/blob/main/exampleSite/content/{path}
+    linkToReport: https://github.com/brianmsm/brianmsm.github.io/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/brianmsm/brianmsm.github.io/blob/main/content/{path}|
+    linkToSource: https://github.com/brianmsm/brianmsm.github.io/blob/main/content/{path}
     mapbox:
       accessToken: pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ
       darkStyle: mapbox://styles/mapbox/dark-v10?optimize=true
@@ -636,10 +658,10 @@ params:
       Evernote: no
       Facebook: yes
       Flipboard: no
-      HackerNews: yes
+      HackerNews: no
       Instapaper: no
       Line: yes
-      Linkedin: no
+      Linkedin: yes
       Mix: no
       Myspace: no
       Odnoklassniki: no
@@ -655,7 +677,7 @@ params:
       Twitter: yes
       VK: no
       Weibo: yes
-      Whatsapp: no
+      Whatsapp: yes
       Xing: no
       enable: yes
     table:
@@ -681,7 +703,7 @@ params:
     bio: If you find this post helpful, please consider sponsoring.
     enable: no
     link: https://github.com/sponsors/HEIGE-PCloud
-  title: Hugo DoIt Theme Documentation
+  title: Web Personal de Brian Peña Calero
   typeit:
     cursorChar: '|'
     cursorSpeed: 1000
@@ -690,7 +712,7 @@ params:
   verification:
     baidu: ''
     bing: ''
-    google: MQ8DNu27ayX6B_4ObiEDK09vGr1fdy7kOAnbd09hJk4
+    google: ''
     pinterest: ''
     so: ''
     sogou: ''
@@ -719,10 +741,10 @@ markup:
     startLevel: 2
 author:
   avatar: /images/avatar.webp
-  email: heige.pcloud@outlook.com
+  email: 'brianmsm@gmail.com'
   gravatarEmail: ''
-  link: https://github.com/HEIGE-PCloud
-  name: PCloud
+  link: https://github.com/brianmsm
+  name: Brian Norman Peña Calero
 sitemap:
   changefreq: weekly
   filename: sitemap.xml
