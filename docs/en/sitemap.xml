@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://brianmsm.github.io/en/theme-documentation-content/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/theme-documentation-content/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/theme-documentation-content/"
@@ -20,7 +20,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/showcase/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/"
@@ -29,7 +29,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/categories/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/categories/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/categories/"
@@ -38,7 +38,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/categories/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/tags/content/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/tags/content/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/tags/content/"
@@ -47,7 +47,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/tags/content/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/authors/dillon/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/authors/dillon/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/authors/dillon/"
@@ -56,7 +56,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/authors/dillon/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/series/getting-start/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/series/getting-start/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/series/getting-start/"
@@ -65,7 +65,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/series/getting-start/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/tags/markdown/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/tags/markdown/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/tags/markdown/"
@@ -74,7 +74,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/tags/markdown/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/authors/pcloud/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/authors/pcloud/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/authors/pcloud/"
@@ -83,7 +83,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/authors/pcloud/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/posts/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/posts/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/posts/"
@@ -92,7 +92,7 @@
                     hreflang="en"
                     href="https://brianmsm.github.io/en/posts/"
                     /></url><url>
-            <loc>https://brianmsm.github.io/en/tags/</loc><lastmod>2022-04-24T01:35:02-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://brianmsm.github.io/en/tags/</loc><lastmod>2022-06-24T01:31:27-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="es"
                         href="https://brianmsm.github.io/tags/"
